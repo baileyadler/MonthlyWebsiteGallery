@@ -14,10 +14,41 @@ font-size:20px;
 font-family: "estro-mn", sans-serif;
 font-weight: 400;
 font-style: normal;
+font-size:40px;
 }
 body{
     background-color: lightblue;
 }
 .card{
     background-color: rgb(180, 250, 250);
+}
+.nav-link {
+color:black;
+font-size: 22px;
+font-family: "joly-text", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+p{
+    color:black;
+font-size: 22px;
+font-family: "joly-text", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+.nicholas{
+font-family: "nicholas", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+color:black;
+}
+.image{
+width:80px;
+}
+.dropdown-item{
+font-family: "joly-text", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:17px;
 }
