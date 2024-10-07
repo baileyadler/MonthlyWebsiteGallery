@@ -18,6 +18,6 @@ font-style: normal;
 body{
     background-color: lightblue;
 }
-h1{
-    text-align:center;
+.card{
+    background-color: rgb(180, 250, 250);
 }
